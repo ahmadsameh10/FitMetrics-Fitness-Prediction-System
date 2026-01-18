@@ -82,4 +82,4 @@ This is a synthetic dataset created for educational purposes. It does not contai
 
 ## Technologies Used
 
-Python, Pandas, Scikit-Learn.
+Python, Pandas, NumPy, Scikit-Learn, matplotlib, seaborn.
